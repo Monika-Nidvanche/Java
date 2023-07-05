@@ -24,11 +24,11 @@ public class Queue {
 		// queue.removeAll();
 		System.out.println(queue);
 
-		Iterator<String> iterator1 = queue.iterator();
-		while (iterator1.hasNext()) {
-			System.out.println(iterator1.next());
-		}
-		System.out.println("hi");
+//		Iterator<String> iterator1 = queue.iterator();
+//		while (iterator1.hasNext()) {
+//			System.out.println(iterator1.next());
+//		}
+//		System.out.println("hi");
 	}
 
 }
